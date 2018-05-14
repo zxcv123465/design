@@ -64,7 +64,7 @@ img{
 }
 #photo4 {
 	background-image: url(images/polaroid-all.jpg);
-	background-position: left;
+	background-position: right;
 	float: left;
 	height: 300px;
 	width: 265px;
@@ -81,7 +81,7 @@ a:visited {
 	color: #88A2AE;
 	text-decoration: none;
 }
-ahover {
+a:hover {
 	color: #385058;
 	text-decoration: underline;
 }
